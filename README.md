@@ -57,7 +57,5 @@ A TypeScript script for managing Cosmos wallets, enabling transactions and walle
    node run
    ``` 
 
-5. **Support (EVM for coffee)**:
-    ```bash
-   0xde260429ef7680c7a43e855b5fcf619948f34e2a
-   ``` 
+
+Pass : ```winsnip24```
